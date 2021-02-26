@@ -17,7 +17,7 @@ export class VirtualComponent implements OnInit {
 
   ngOnInit(): void {
 
-    console.log(this.personas);
+    // console.log(this.personas);
   }
 
   irFinal() { 
